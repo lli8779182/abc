@@ -260,15 +260,7 @@
       "searchable": 1,
       "type": 3
     },
-{
-      "key": "一直看.py",
-      "name": "一直看",
-      "api": "./18/一直看.py",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3
-    },
+
   {
       "key": "57短剧.py",
       "name": "💥57短剧💥",
