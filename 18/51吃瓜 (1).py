@@ -184,7 +184,7 @@ class Spider(BaseSpider):
         return '51吃瓜'
 
     def init(self, extend=''):
-        self.host = 'https://attempt.aboqthpm.cc/'
+        self.host = 'https://bend.uvftjwci.cc/'
         # self.host = 'https://wikiwiki.aboqthpm.cc/'
         self.ua = ('Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0')
         self.header = {
